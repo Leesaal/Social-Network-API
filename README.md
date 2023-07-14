@@ -19,11 +19,11 @@
 
 ## Description
 
-This program is a social network API with routes and functionalities to create/update/get/delete users and thoughts and created and delete reactions.
+This program is a social network API with routes and functionalities to create/update/get/delete users and thoughts and create and delete reactions.  As well as, add or delete friends.
 
 ## Walkthrough/Result
 
-https://drive.google.com/file/d/1HstiNq0GXBpMp5UGD0SwadSkFqrsRhlZ/view?usp=drive_link
+https://github.com/Leesaal/Social-Network-API/assets/118930290/fa388e25-ab9f-487d-9e37-03261930f777
 
 ## Installation
 
@@ -34,7 +34,7 @@ node server.js
 
 ## Usage
 
-This program can be used 
+This program can be used to provide you with an API with working routes to create/update/get/delete user and thoughts and allow them to add friends, delete friends as well as reactions.
 
 ## License
 
