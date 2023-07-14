@@ -23,7 +23,7 @@ This program is a social network API with routes and functionalities to create/u
 
 ## Walkthrough/Result
 
-https://github.com/Leesaal/Social-Network-API/assets/118930290/fa388e25-ab9f-487d-9e37-03261930f777
+(https://drive.google.com/file/d/1HstiNq0GXBpMp5UGD0SwadSkFqrsRhlZ/view?usp=sharing)
 
 ## Installation
 
