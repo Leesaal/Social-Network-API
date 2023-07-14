@@ -7,25 +7,25 @@ const userSchema = new Schema(
       required: [true, "Please enter a username"],
       unique: true,
       trim: true,
-      max_length: 30,
+      maxlength: 30,
     },
     email: {
       type: String,
       required: [true, "Please enter an email"],
       unique: true,
-      max_length: 30,
+      maxlength: 30,
       match: [/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/],
     },
     thoughts: [
       {
         type: Schema.Types.ObjectId,
-        ref: "thought",
+        ref: "Thought",
       },
     ],
     friends: [
       {
         type: Schema.Types.ObjectId,
-        ref: "user",
+        ref: "User",
       },
     ],
   },
